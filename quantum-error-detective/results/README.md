@@ -1,0 +1,1 @@
+Run `python src/quantum_error_detective.py` from the repository root to generate the experiment CSVs and PNG plots here. The repository intentionally does not include fabricated result values; submit the generated artifacts only after the script completes successfully.

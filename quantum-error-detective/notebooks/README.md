@@ -1,0 +1,1 @@
+Optional: after validating the script, create a notebook that imports the functions from `src/quantum_error_detective.py` and shows the generated plots/CSV tables inline. The script is the canonical reproducible implementation for Stage 1.
